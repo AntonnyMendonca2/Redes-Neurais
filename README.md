@@ -7,3 +7,7 @@ O primeiro tema é rede sequencial, e pode ser encontrado no arquivo RedesSequen
 ![BeautifulMasterpieceIrobotGIF](https://github.com/user-attachments/assets/bef0876c-8efc-4600-9b16-3fd6df5d66c3)
 
 
+----
+
+# Links Úteis:
+Dataset com imagens para pesquisas voltadas a visão computacional: https://www.image-net.org/
