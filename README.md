@@ -16,6 +16,8 @@ O primeiro tema é rede sequencial, e pode ser encontrado no arquivo RedesSequen
 
 3) Mais afundo em redes neurais: [RedesProfundas](RedesProfundas.ipynb)
 
+4) Processamento de dados volumosos: [PreProcessingTensorFlow](PreProcessingTensorFlow.ipynb)
+
 ----
 
 # Links Úteis:
