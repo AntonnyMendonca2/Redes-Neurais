@@ -18,6 +18,8 @@ O primeiro tema é rede sequencial, e pode ser encontrado no arquivo RedesSequen
 
 4) Processamento de dados volumosos: [PreProcessingTensorFlow](PreProcessingTensorFlow.ipynb)
 
+5) Redes Convolucionais: [RedesConvolucionais](RedesConvolucionais.ipynb)
+
 ----
 
 # Links Úteis:
