@@ -20,6 +20,8 @@ O primeiro tema é rede sequencial, e pode ser encontrado no arquivo RedesSequen
 
 5) Redes Convolucionais: [RedesConvolucionais](RedesConvolucionais.ipynb)
 
+5) Series Temporais [Não finalizado]: [SeriesTemporais.ipynb]([NÃO FINALIZADO] - SeriesTemporais.ipynb)
+
 ----
 
 # Links Úteis:
